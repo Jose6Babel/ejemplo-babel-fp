@@ -3,5 +3,3 @@ Por ejemplo
 Nuevo contenido
 
 Mas cambios por Fork
-
-Cambios del paso 3
